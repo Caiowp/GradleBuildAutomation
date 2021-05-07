@@ -2,6 +2,8 @@
 
 Lesson from devOps bootcamp setting up gradle for build automation.
 
+For deploying type " ./gradlew build " inside root folder
+
 # Java-React Example
 
 An example of how to use JS frontend to consume an endpoint written in Java.
